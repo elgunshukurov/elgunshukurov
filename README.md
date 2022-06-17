@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Elgun</h1>
 <h3 align="center">A passionate backend developer from Azerbaijan</h3>
 
-- 🔭 I’m currently working on ... Java & Oracle
+- 🔭 I’m currently working on ... Java & Oracle SQL
  
 - 🚀 I’m currently learning ... Docker & Kubernetes
 
