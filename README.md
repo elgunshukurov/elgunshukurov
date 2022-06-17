@@ -1,9 +1,15 @@
 <h1 align="center">Hi 👋, I'm Elgun</h1>
 <h3 align="center">A passionate backend developer from Azerbaijan</h3>
 
-- 🚀 I’m currently learning **Docker and Kubernetes**
+- 🔭 I’m currently working on ... Java & Oracle
+ 
+- 🚀 I’m currently learning ... Docker & Kubernetes
 
-- 💬 Ask me about **java and Spring Boot**
+- 👯 I’m looking to collaborate with other content creators
+
+- ⚡ Fun fact: I love astronomy, chess, and ping-pong
+
+- 💬 Ask me about anything about in tech
 
 - 📫 How to reach me **elgunsukurov114@gmail.com**
 
