@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **elgunsukurov114@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/elgun-%C5%9F%C3%BCk%C3%BCrov-6a6510ab](https://www.linkedin.com/in/elgun-%C5%9F%C3%BCk%C3%BCrov-6a6510ab)
+- 📄 Know about my experiences [www.linkedin.com/in/elgunshukurov](www.linkedin.com/in/elgunshukurov)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
