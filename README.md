@@ -1,13 +1,26 @@
-# Hi 👋, I'm Elgun
+# Elgun Shukurov
 
-### Senior Java Backend Developer · Baku, Azerbaijan
+**Senior Java Backend Engineer · Payments & Banking · Baku, Azerbaijan**
 
-- 🏦 Currently working at **Kapital Bank** — birbank/birbonus ecosystem
-- ☕ 5+ years of Java backend experience (Spring Boot, microservices, distributed systems)
-- 🔧 Stack: Java · Spring Boot · PostgreSQL · Oracle · Redis · Kafka · RabbitMQ · Kubernetes
-- 🌱 Interests: system design, distributed systems, CQRS, Saga pattern, database internals
-- 🤝 Open source contributor — merged fix in [Spring Framework](https://github.com/spring-projects/spring-framework/pull/36513)
-- ✍️ Writing technical content in Azerbaijani on [Medium](https://medium.com/@elgunsukurov114)
-- ⚡ Fun fact: chess, ping-pong, Assassin's Creed
+I build payment and banking backends with Java, Spring Boot and Kafka.
+At GoldenPay I designed a card management system from scratch (issuance, clearing,
+daily reconciliation with the card processor) and led a team of 9. Now I work on
+bonus and loyalty services in the Ecosystem Loyalty tribe at Kapital Bank (Birbank).
 
-📫 **elgunsukurov114@gmail.com** · [LinkedIn](https://linkedin.com/in/elgunshukurov)
+### Now
+- Kafka-based bonus and payment services at Kapital Bank
+- Spec-driven development with Claude Code: wrote an SDD starter kit and presented it at an engineering meetup
+- Open source: [merged fix in Spring Framework](https://github.com/spring-projects/spring-framework/pull/36513)
+
+### Live projects
+- [məsləhət.co](https://meslehet.co): anonymous healthcare community for Azerbaijan (Next.js, Supabase)
+- [AutoFair](https://www.autofair.az): used-car price checker for turbo.az listings (Python, LightGBM, FastAPI)
+
+### Stack
+Java 21 · Spring Boot · Kafka · RabbitMQ · PostgreSQL · Oracle · Redis · Camunda · Docker · Kubernetes · ArgoCD
+
+### Writing
+Technical articles in Azerbaijani on [Medium](https://medium.com/@elgunsukurov114)
+
+### Contact
+contact@elgunshukurov.com · [LinkedIn](https://linkedin.com/in/elgunshukurov)
